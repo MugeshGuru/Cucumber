@@ -1,0 +1,2 @@
+file:src/test/resources/Amazon.feature:8
+file:src/test/resources/FaceBook.feature:30:31:32:33
